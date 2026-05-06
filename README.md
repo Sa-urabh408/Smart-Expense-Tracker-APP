@@ -23,10 +23,14 @@ You can directly download and install the latest APK on your Android device usin
 ---
 
 ## 📸 Screenshots
-*(Coming Soon)*
-| Dashboard | Add Expense | Group Settlements | Reports |
-|:---:|:---:|:---:|:---:|
-| `<Image placeholder>` | `<Image placeholder>` | `<Image placeholder>` | `<Image placeholder>` |
+
+| Dashboard | Add Transaction | Group Split |
+|:---:|:---:|:---:|
+| <img src="screenshots/dashboard.jpeg" width="250"/> | <img src="screenshots/add_transaction.jpeg" width="250"/> | <img src="screenshots/group_split.jpeg" width="250"/> |
+
+| Profile Screen | Subscription Tracker | Reports |
+|:---:|:---:|:---:|
+| <img src="screenshots/profile.jpeg" width="250"/> | <img src="screenshots/subscription_tracker.jpeg" width="250"/> | <img src="screenshots/report.jpeg" width="250"/> |
 
 ---
 
