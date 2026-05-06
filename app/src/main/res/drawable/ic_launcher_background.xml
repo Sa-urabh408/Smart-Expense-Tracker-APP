@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Dark base background -->
+    <path
+        android:fillColor="#0D1220"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Carbon fiber diagonal texture -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,18L18,0"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,36L36,0"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,54L54,0"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,72L72,0"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,90L90,0"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,108L108,0"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M18,108L108,18"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M36,108L108,36"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,108L108,54"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M72,108L108,72"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M90,108L108,90"
+        android:strokeWidth="0.6"
+        android:strokeColor="#14FFFFFF" />
+
+    <!-- Radial center glow - teal -->
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:centerX="54"
+                android:centerY="50"
+                android:gradientRadius="55">
+                <item android:offset="0.0" android:color="#1230C8B0"/>
+                <item android:offset="0.6" android:color="#08183880"/>
+                <item android:offset="1.0" android:color="#00000000"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top-left purple glow -->
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:centerX="10"
+                android:centerY="10"
+                android:gradientRadius="50">
+                <item android:offset="0.0" android:color="#18503090"/>
+                <item android:offset="1.0" android:color="#00000000"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Bottom-right teal glow -->
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:centerX="98"
+                android:centerY="98"
+                android:gradientRadius="50">
+                <item android:offset="0.0" android:color="#1440C8A8"/>
+                <item android:offset="1.0" android:color="#00000000"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top highlight edge -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,0L108,0"
+        android:strokeWidth="1.2"
+        android:strokeColor="#20FFFFFF" />
+
+    <!-- Left highlight edge -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,0L0,108"
+        android:strokeWidth="1.2"
+        android:strokeColor="#20FFFFFF" />
+
+    <!-- Bottom shadow edge -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,108L108,108"
+        android:strokeWidth="1.5"
+        android:strokeColor="#40000000" />
+
+    <!-- Right shadow edge -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M108,0L108,108"
+        android:strokeWidth="1.5"
+        android:strokeColor="#40000000" />
+
+</vector>

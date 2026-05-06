@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FAB gradient: purple -> teal -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:startColor="#FF7C3AED"
+        android:endColor="#FF1D9E75"
+        android:angle="135" />
+    <size
+        android:width="46dp"
+        android:height="46dp" />
+</shape>

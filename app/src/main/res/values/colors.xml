@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Dark Theme Colors -->
+    <color name="colorBackground">#FF121212</color>
+    <color name="colorSurface">#FF1E1E1E</color>
+    <color name="colorSurfaceVariant">#FF2C2C2C</color>
+    <color name="colorCardBackground">#FF1E1E2E</color>
+
+    <!-- Accent Colors - Teal/Purple -->
+    <color name="colorPrimary">#FF00BFA5</color>
+    <color name="colorPrimaryDark">#FF00897B</color>
+    <color name="colorPrimaryVariant">#FF004D40</color>
+    <color name="colorSecondary">#FFBB86FC</color>
+    <color name="colorSecondaryVariant">#FF9C64FE</color>
+    <color name="colorTertiary">#FF03DAC5</color>
+
+    <!-- On Colors -->
+    <color name="colorOnPrimary">#FF000000</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="colorOnBackground">#FFFFFFFF</color>
+    <color name="colorOnSurface">#FFFFFFFF</color>
+    <color name="colorOnSurfaceVariant">#FFB0B0B0</color>
+
+    <!-- Status Colors -->
+    <color name="colorError">#FFCF6679</color>
+    <color name="colorOnError">#FF000000</color>
+    <color name="colorIncome">#FF00E676</color>
+    <color name="colorExpense">#FFFF5252</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradientStart">#FF00BFA5</color>
+    <color name="gradientEnd">#FFBB86FC</color>
+
+    <!-- Category Colors -->
+    <color name="categoryFood">#FFFF7043</color>
+    <color name="categoryTravel">#FF42A5F5</color>
+    <color name="categoryShopping">#FFAB47BC</color>
+    <color name="categoryBills">#FFFFCA28</color>
+    <color name="categoryEntertainment">#FF26C6DA</color>
+    <color name="categoryHealth">#FF66BB6A</color>
+    <color name="categoryOther">#FF78909C</color>
+    <color name="categoryIncome">#FF00E676</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+    <color name="semiTransparentBlack">#80000000</color>
+    <color name="rippleColor">#33FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#FFFFFFFF</color>
+    <color name="textSecondary">#FFB0B0B0</color>
+    <color name="textHint">#FF757575</color>
+
+    <!-- Subscription Tracker Colors -->
+    <color name="subPurpleAccent">#FF7C3AED</color>
+    <color name="subPurpleLight">#FFA78BFA</color>
+    <color name="subPurpleDarkBg">#FF1A1035</color>
+    <color name="subTealDarkBg">#FF0D1F1A</color>
+    <color name="subRedAlert">#FFE24B4A</color>
+    <color name="subRedDarkBg">#FF2A1515</color>
+    <color name="subRedBannerBg">#FF1A0A0A</color>
+    <color name="subAmber">#FFEF9F27</color>
+    <color name="subAmberDarkBg">#FF2A2010</color>
+    <color name="subGreenSafe">#FF1D9E75</color>
+    <color name="subGreenDarkBg">#FF0A1F18</color>
+    <color name="subCardBg">#FF1C1C1E</color>
+    <color name="subCardBorder">#FF252525</color>
+    <color name="subTextMuted">#FF555555</color>
+</resources>

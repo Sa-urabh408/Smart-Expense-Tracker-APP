@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Single emoji item in the avatar grid -->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_emoji"
+    android:layout_width="56dp"
+    android:layout_height="56dp"
+    android:gravity="center"
+    android:textSize="28sp"
+    android:background="@drawable/bg_avatar_circle"
+    android:padding="4dp" />

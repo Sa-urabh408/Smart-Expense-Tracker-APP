@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="72dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginEnd="12dp"
+    android:padding="4dp">
+
+    <!-- Avatar circle -->
+    <TextView
+        android:id="@+id/tv_avatar_initial"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:textColor="@color/colorOnPrimary"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/bg_avatar_circle" />
+
+    <!-- Name below -->
+    <TextView
+        android:id="@+id/tv_avatar_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Member"
+        android:textColor="@color/textSecondary"
+        android:textSize="11sp"
+        android:layout_marginTop="4dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxWidth="72dp" />
+</LinearLayout>
